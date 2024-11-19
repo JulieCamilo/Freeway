@@ -127,7 +127,7 @@ A ideia do site 404 ERROR surgiu a partir da necessidade de testar e aprimorar o
 
 <br>
 
-<img src="./imagens/pong.png" alt= "404error" width= "400"/>
+<img src="./imagens/pong.png" alt= "pong" width= "400"/>
 
 O Pong é um jogo eletrônico com a temática de tênis de mesa e, é um dos primeiros jogos eletrônicos lucrativos da história e é a partir de sua criação que, na Alura, exercitamos nossa lógica de programação.
 
