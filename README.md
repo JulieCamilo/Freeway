@@ -1,12 +1,12 @@
 <h1 align= "center"> Freeway </h1>
 
+
+
 * <img src="./imagens/br.jpg" alt="drawing" width="15"/> [Versão em Português](#versao-em-portugues)
 
-<br>
 
 * <img src="./imagens/spain.jpg" alt="drawing" width="15"/> [Versión en español](#versión-en-español)
 
-<br>
 
 * <img src="./imagens/eua.jpg" alt="drawing" width="15"/> [English Version](#english-version)
 
@@ -140,11 +140,9 @@ O Pong é um jogo eletrônico com a temática de tênis de mesa e, é um dos pri
 
 * <img src="./imagens/br.jpg" alt="drawing" width="15"/> [Versão em Português](#versao-em-portugues)
 
-<br>
 
 * <img src="./imagens/spain.jpg" alt="drawing" width="15"/> [Versión en español](#versión-en-español)
 
-<br>
 
 * <img src="./imagens/eua.jpg" alt="drawing" width="15"/> [English Version](#english-version)
 
@@ -273,11 +271,9 @@ Pong es un videojuego con temática de tenis de mesa y uno de los primeros video
 
 * <img src="./imagens/br.jpg" alt="drawing" width="15"/>[Portuguese Version](#versão-em-português)
 
-<br>
 
 * <img src="./imagens/spain.jpg" alt="drawing" width="15"/> [Spanish Version](#versión-en-español)
 
-<br>
 
 * <img src="./imagens/eua.jpg" alt="drawing" width="15"/> [English Version](#english-version)
 
